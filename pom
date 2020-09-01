@@ -1,3 +1,11 @@
+1,maven 选择set 
+2，选择maven 自己安装的
+3，编码---------setting -----Editor ----FileEncoding GlobleEncoding， projectEncoding  都选择UTF-8 ， properties 也选择Utf-8
+4，注解生效   -----setting  ----- Build，Execution，Deployment ————Compiler ———— Annotation Processors -----defult-- 勾选  Enable annotation processing
+5，java编译版本  -----setting  ----- Build，Execution，Deployment ————Compiler ————  java Compiler  ---- 选择 8
+6，File 过滤 -------setting ----- Editor ---- File Types --- 添加到最后一栏 （*.idear ; *.iml）
+
+
 # pom依赖
 
 ```java
